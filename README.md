@@ -14,7 +14,7 @@ An aspiring **Mechatronics & Robotics Engineer** currently finishing my degree i
 
 ### 🚀 Featured Projects
 
-#### 🐾 [Quadruped Robot Prototype](https://github.com/PROSPER05MK/TRAVAIL FIN CYLCLE )
+#### 🐾 [Quadruped Robot Prototype](https://github.com/PROSPER05MK/ros2_ws)
 *Development of a 12-DOF quadruped robot for my undergraduate thesis.*
 - Designed the complete structural chassis in **SolidWorks** and exported it to **URDF** using the SW2URDF exporter.
 - Programmed inverse kinematics algorithms and servo-control systems on an **ESP32** using C++ about arduino IDE.
